@@ -50,96 +50,85 @@ git switch -c rama-jorge-paez
 
 Ahora, abran el archivo `readme.md` con el VSC y al final del archivo, busquen su nombre y agreguen un mensaje luego del mismo, en la misma linea.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
-
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
-
-Add those changes to the branch you just created using the `git add` command:
+Guarden el archivo y luego agreguen los cambios al Stagin Area con el comando `git add`:
 
 ```
-git add Contributors.md
+git add .
 ```
 
-Now commit those changes using the `git commit` command:
+Ahora confirmen los cambios usando el comando `git commit`:
 
 ```
-git commit -m "Add your-name to Contributors list"
+git commit -m "Mensaje del commit (con comillas)"
 ```
 
-replacing `your-name` with your name.
+## Subir los cambios a GITHUB
 
-## Push changes to GitHub
-
-Push your changes using the command `git push`:
+Subir los cambios al repositorio remoto usando el comando `git push`:
 
 ```
-git push -u origin your-branch-name
+git push -u origin "nombre de la rama que contiene los cambios"
 ```
 
-replacing `your-branch-name` with the name of the branch you created earlier.
+Por ejemplo:
 
-<details>
-<summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
+```
+git push -u origin rama-jorge-paez
+```
 
--   ### Authentication Error
-       <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-    remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-    fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
-    Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
+## Enviar los cambios para revision.
 
-</details>
-
-## Submit your changes for review
-
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+Si van a su repositorio en Github, van a encontrar un boton que se ha activado que dice `Compare & pull request`. Hagan click en el boton..
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+Ahora, envien el PULL REQUEST.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+Luego de recibir sus PULL REQUESTS, los aceptaré y les llegará un mail confirmandoles el cambio realizado en el repositorio.
 
-## Where to go from here?
+## COMENZAR A CONTRIBUIR!
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
-
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+Con lo que acaban de aprender ya pueden sumarse al mundo del desarrollo colaborativo!! ahora pueden visitar diferentes proyectos en los que pueden contribuir =). En el siguiente enlace, encontrarán un directorio de proyectos de codigo abierto que aceptan PULL REQUESTS con mejoras externas de colaboradores. [>> DIRECTORIO <<](https://firstcontributions.github.io/#social-share).
 
 ---
 
-. TEST
-. Sofia Andrea Aguirre Hasin
-. Ivana Yamila Belen Ajaya
-. Yanina Maribel Allende
-. Santiago Aquino
-. Exequiel Arguello
-. Rocio Barria
-. Walter Eduardo Benitez
-. Veronica Belen Boscatto
-. Valentina Botto
-. Matias Agustin Caro
-. Juan Cruz De Luca
-. Elias Adriel Diaz Saravia
-. Lilia Andrea Garcia Hiramatsu
-. Nestor Gentil
-. Celeste Gianfelici
-. Giuliana Godoy
-. Ailen Beatriz Gonzalez
-. Mara Belen Gonzalez
-. Fiama Antonella Insaurralde
-. Eugenia Yanina Isasmendi
-. Jose Jimenez
-. Maria Florencia Jorrat
-. Solange Soledad Lopez
-. Wanda Ayelen Martin
-. BRISA ARACELI MIRANDA CHARCA
-. Wendy Moreno Sanchez
-. Milagros Ayelen Raices
-. Dahyana Ayelen Romero
-. Victoria Melina Senh
-. Alfonsina Lourdes Taborda Gutierrez
-. Florencia Torrado
-. Sol Guadalupe Urbano
-. Luciana Rocio Vizcarra
+# ZONA DE PULL REQUESTS!!
+
+---
+
+-   TEST:
+-   Sofia Andrea Aguirre Hasin:
+-   Ivana Yamila Belen Ajaya:
+-   Yanina Maribel Allende:
+-   Santiago Aquino:
+-   Exequiel Arguello:
+-   Rocio Barria:
+-   Walter Eduardo Benitez:
+-   Veronica Belen Boscatto:
+-   Valentina Botto:
+-   Matias Agustin Caro:
+-   Juan Cruz De Luca:
+-   Elias Adriel Diaz Saravia:
+-   Lilia Andrea Garcia Hiramatsu:
+-   Nestor Gentil:
+-   Celeste Gianfelici:
+-   Giuliana Godoy:
+-   Ailen Beatriz Gonzalez:
+-   Mara Belen Gonzalez:
+-   Fiama Antonella Insaurralde:
+-   Eugenia Yanina Isasmendi:
+-   Jose Jimenez:
+-   Maria Florencia Jorrat:
+-   Solange Soledad Lopez:
+-   Wanda Ayelen Martin:
+-   BRISA ARACELI MIRANDA CHARCA:
+-   Wendy Moreno Sanchez:
+-   Milagros Ayelen Raices:
+-   Dahyana Ayelen Romero:
+-   Victoria Melina Senh:
+-   Alfonsina Lourdes Taborda Gutierrez:
+-   Florencia Torrado:
+-   Sol Guadalupe Urbano:
+-   Luciana Rocio Vizcarra:
