@@ -15,11 +15,10 @@ Hacer un FORK a este repositorio clickeando en el boton FORK en la parte superio
 ## CLONE al repositorio FORKEADO
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
-
-Ahora, realicen un CLONE al repositorio en su cuenta que acaban de hacer un FORK
-Para esto, vayan a su cuenta de github y viendo el repositorio forkeado, hagan click en el boton verde que dice CODE.
-Luego, copien la direccion que aparece clickeando en el icono de portapapeles.
-Luego abran su terminal preferido (preferentemente el de VSC) e ingresen los siguientes comandos:
+Creen una carpeta y abranla en el VSC. Luego, sigan los siguientes pasos usando la consola del VSC.
+Vayan a SUS cuenta de github (ojo, no la del repo original) y viendo el repositorio forkeado, hagan click en el boton verde que dice CODE.
+Luego, copien la direccion que aparece clickeando en el icono de portapapeles, en la pestaña HTTPS.
+Luego ingresen los siguientes comandos en la consola del VSC:
 
 ```
 git clone "peguen aca la direccion copiada (sin comillas)"
@@ -27,37 +26,29 @@ git clone "peguen aca la direccion copiada (sin comillas)"
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-For example:
+## Crear una BRANCH (RAMA)
+
+Ingresen al directorio del repositorio clonado
 
 ```
-git clone git@github.com:this-is-you/first-contributions.git
+cd prueba-clase-git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
-
-## Create a branch
-
-Change to the repository directory on your computer (if you are not already there):
+Ahora, crearemos una nueva rama usando el comando `git switch` :
 
 ```
-cd first-contributions
+git switch -c "nombre de su nueva (rama sin comillas y sin espacios)"
 ```
 
-Now create a branch using the `git switch` command:
+Por ejemplo:
 
 ```
-git switch -c your-new-branch-name
+git switch -c rama-jorge-paez
 ```
 
-For example:
+## Realizar cambios al repo
 
-```
-git switch -c add-alonzo-church
-```
-
-## Make necessary changes and commit those changes
-
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Ahora, abran el archivo `readme.md` con el VSC y al final del archivo, busquen su nombre y agreguen un mensaje luego del mismo, en la misma linea.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
