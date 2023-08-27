@@ -1,6 +1,4 @@
-# ARCHIVO DE PRUEBA PARA VERIFICAR PR
-
----
+## ![Header](https://raw.githubusercontent.com/GiorgioCode/prueba-clase-git/main/readme/pr.gif)
 
 ## En este repositorio, podran realizar su primer PULL REQUEST.
 
