@@ -1,8 +1,8 @@
-## ![Header](https://raw.githubusercontent.com/GiorgioCode/prueba-clase-git/main/readme/pr.gif)
+## ![Header](https://raw.githubusercontent.com/GiorgioCode/prueba-clase-git/master/pr.gif)
 
-## En este repositorio, podran realizar su primer PULL REQUEST.
+# En este repositorio, podran realizar su primer PULL REQUEST.
 
-## Deberan seguir las instrucciones que a continuacion se detallan.
+### Deberan seguir las instrucciones que a continuacion se detallan.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
