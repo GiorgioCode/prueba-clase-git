@@ -109,7 +109,7 @@ Con lo que acaban de aprender ya pueden sumarse al mundo del desarrollo colabora
 -   Matias Agustin Caro:
 -   Juan Cruz De Luca:
 -   Elias Adriel Diaz Saravia:
--   Lilia Andrea Garcia Hiramatsu:
+-   Lilia Andrea Garcia Hiramatsu: hola!!
 -   Nestor Gentil:
 -   Celeste Gianfelici:
 -   Giuliana Godoy:
