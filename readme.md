@@ -98,7 +98,7 @@ Con lo que acaban de aprender ya pueden sumarse al mundo del desarrollo colabora
 
 -   TEST: CAMBIO GENERADO 27AGO1531 (OK)
 -   Sofia Andrea Aguirre Hasin:
--   Ivana Yamila Belen Ajaya:
+-   Ivana Yamila Belen Ajaya:  Prueba de Git Realizada
 -   Yanina Maribel Allende:
 -   Santiago Aquino:
 -   Exequiel Arguello:
