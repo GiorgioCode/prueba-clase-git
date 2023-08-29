@@ -100,7 +100,7 @@ Con lo que acaban de aprender ya pueden sumarse al mundo del desarrollo colabora
 -   Sofia Andrea Aguirre Hasin:
 -   Ivana Yamila Belen Ajaya:
 -   Yanina Maribel Allende:
--   Santiago Aquino:
+-   Santiago Aquino: (OK)
 -   Exequiel Arguello:
 -   Rocio Barria:
 -   Walter Eduardo Benitez:
