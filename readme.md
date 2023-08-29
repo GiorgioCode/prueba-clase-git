@@ -119,7 +119,7 @@ Con lo que acaban de aprender ya pueden sumarse al mundo del desarrollo colabora
 -   Eugenia Yanina Isasmendi:
 -   Jose Jimenez:
 -   Maria Florencia Jorrat:
--   Solange Soledad Lopez:
+-   Solange Soledad Lopez: Prueba de Git Realizada
 -   Wanda Ayelen Martin:
 -   BRISA ARACELI MIRANDA CHARCA:
 -   Wendy Moreno Sanchez:
