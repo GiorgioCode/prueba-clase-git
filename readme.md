@@ -96,7 +96,7 @@ Con lo que acaban de aprender ya pueden sumarse al mundo del desarrollo colabora
 
 ---
 
--   TEST: CAMBIO GENERADO 27AGO1531 (OK)
+-   TEST: CAMBIO GENERADO 27AGO1531 (OK) / otro cambio
 -   Sofia Andrea Aguirre Hasin:
 -   Ivana Yamila Belen Ajaya:
 -   Yanina Maribel Allende:
